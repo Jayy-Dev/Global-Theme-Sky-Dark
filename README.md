@@ -4,7 +4,9 @@ Based on  Catppuccin Mocha (Sky) Flavour dark theme
 
 # Sky Dark Theme
 
-Based on Catppuccin Mocha Color Palette
+### Based on Catppuccin Mocha Color Pallet
+![alt text](https://github.com/Jayy-Dev/Global-Theme-Sky-Dark/blob/main/preview/WIP.png?raw=true)
+## Not yet finished
 # Features:
 Colored Wifi Icon based on the internet strenght [WIP]
 \
