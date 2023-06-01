@@ -4,7 +4,7 @@ Based on  Catppuccin Mocha (Sky) Flavour dark theme
 
 # Sky Dark Theme
 
-### Based on Catppuccin Mocha Color Pallet
+### Based on Catppuccin Mocha Color Palette
 ![alt text](https://github.com/Jayy-Dev/Global-Theme-Sky-Dark/blob/main/preview/WIP.png?raw=true)
 ## Not yet finished
 # Features:
