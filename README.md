@@ -12,8 +12,6 @@ Dark Background
 \
 Custom System Icons [<span style="color: #89dceb;">WIP</span>]
 \
-<span style="color: #fab867;">Konsole Color Scheme</span> [Released]
-
-<code> https://github.com/Jayy-Dev/Konsole-Sky-Dark</code>
+<span style="color: #fab867;">Konsole Color Scheme</span> [<a href="https://github.com/Jayy-Dev/Konsole-Sky-Dark">Released</a>]
 
 # WIP
