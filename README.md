@@ -8,7 +8,7 @@ Info:
 \
 Global Theme Name: <a href="">Sky-Dark</a>
 \
-Plasma Theme: <a href="">Sky-Dark</a>
+Plasma Theme: <a href="">Sky-Dark</a> (Win12OS-dark Modified)
 \
 Application Style and Window Decoration: <a href="https://github.com/paulmcauley/klassy">Klassy</a>
 \
@@ -33,13 +33,20 @@ Right Bottom Corner: System-Tray
 *The windows start icon is changed to KDE icon*
 
 *<p align=center>Default KDE Panel</a>*
+\
+![alt text](https://github.com/Jayy-Dev/Global-Theme-Sky-Dark/blob/main/preview/latte-dock.png?raw=true)
+
+*<p align=center>Latte Dock</a>*
 
 # Features:
 Colored Wifi Icon based on the internet strenght.
 ![alt text](https://github.com/Jayy-Dev/Global-Theme-Sky-Dark/blob/main/preview/network.png?raw=true)
+<!--
+  MIT License
+-->
+# <span style="color: #fab867;">Konsole Color Scheme</span> [<a href="https://github.com/Jayy-Dev/Konsole-Sky-Dark">Released</a>]
+### Version 1.0
 \
-Dark Background
-\
-Custom System Icons
-\
-<span style="color: #fab867;">Konsole Color Scheme</span> [<a href="https://github.com/Jayy-Dev/Konsole-Sky-Dark">Released</a>]
+![alt text](https://github.com/Jayy-Dev/Konsole-Sky-Dark/blob/main/preview.png?raw=true)
+
+# Feel free to suggest any improvements and I will try to add it
