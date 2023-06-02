@@ -17,5 +17,5 @@ X-KDE-PluginInfo-Version=1.0.0
 X-KDE-PluginInfo-Website=https://github.com/Jayy-Dev/Global-Theme-Sky-Dark
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
-X-KPackage-Dependencies=org.kde.lookandfeel.desktoptheme:2045578,org.kde.lookandfeel.colors:2045580,org.kde.lookandfeel.aurorae:2038806,org.kde.lookandfeel.icons:1279924,org.kde.lookandfeel.wallpaper:2045597,org.kde.lookandfeel.cursors:1383064
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/2045580,kns://plasma-themes.knsrc/api.kde-look.org/2045578,kns://aurorae.knsrc/api.kde-look.org/2038806,kns://icons.knsrc/api.kde-look.org/1279924,kns://wallpaper.knsrc/api.kde-look.org/p/2045597,kns://xcursor.knsrc/api.kde-look.org/1383064
 X-Plasma-MainScript=defaults
