@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg175"
+   sodipodi:docname="media.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata181">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs179" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview177"
+     showgrid="true"
+     inkscape:zoom="1.3409091"
+     inkscape:cx="24.750675"
+     inkscape:cy="83.671719"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="media-playback-playing">
+    <inkscape:grid
+       type="xygrid"
+       id="grid988" />
+  </sodipodi:namedview>
+  <style
+     type="text/css"
+     id="current-color-scheme">
+        .ColorScheme-Text {
+            color:#ececec;
+        }
+    </style>
+  <g
+     id="media-playback-playing">
+    <path
+       d="M 0,0 H 22 V 22 H 0 Z"
+       id="path3"
+       inkscape:connector-curvature="0"
+       style="fill:none" />
+    <g
+       class="ColorScheme-Text"
+       id="g9"
+       style="color:#ececec;fill:currentColor;fill-rule:evenodd">
+      <path
+         d="M 8,15 15,11 8,7 Z"
+         id="path7"
+         inkscape:connector-curvature="0"
+         style="fill:#ececec;fill-opacity:1"
+         sodipodi:nodetypes="cccc" />
+    </g>
+  </g>
+  <g
+     id="media-playback-stopped"
+     transform="translate(24)">
+    <path
+       d="M 24,0 H 46 V 22 H 24 Z"
+       id="path12"
+       inkscape:connector-curvature="0"
+       style="fill:none" />
+    <g
+       class="ColorScheme-Text"
+       id="g18"
+       style="color:#ececec;fill:currentColor;fill-rule:evenodd">
+      <path
+         d="m 31,7 h 8 v 8 h -8 z"
+         id="path16"
+         inkscape:connector-curvature="0"
+         style="fill:#ececec;fill-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+  </g>
+  <g
+     id="media-playback-paused"
+     transform="translate(48)">
+    <path
+       d="M -24,0 H -2 V 22 H -24 Z"
+       id="path21"
+       inkscape:connector-curvature="0"
+       style="fill:none" />
+    <g
+       class="ColorScheme-Text"
+       id="g29"
+       style="color:#ececec;fill:#ececec;fill-opacity:1;fill-rule:evenodd">
+      <path
+         d="m -17,7 h 3 v 8 h -3 z"
+         id="path23"
+         inkscape:connector-curvature="0"
+         style="fill:#ececec;fill-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         d="m -12,7 h 3 v 8 h -3 z"
+         id="path25"
+         inkscape:connector-curvature="0"
+         style="fill:#ececec;fill-opacity:1"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+  </g>
+  <g
+     id="16-16-media-playback-pause"
+     transform="translate(223 -26)">
+    <path
+       d="m-117 48h16v16h-16z"
+       id="path32"
+       fill="none" />
+    <path
+       d="m-115 50v12h4v-12zm8 0v12h4v-12z"
+       class="ColorScheme-Text"
+       id="path34"
+       fill="currentColor" />
+  </g>
+  <g
+     id="22-22-media-playback-pause"
+     transform="translate(207 -43)">
+    <path
+       d="m-101 43h22v22h-22z"
+       id="path37"
+       fill="none" />
+    <path
+       d="m-98 46v16h6v-16zm10 0v16h6v-16z"
+       class="ColorScheme-Text"
+       id="path39"
+       fill="currentColor" />
+  </g>
+  <g
+     id="32-32-media-playback-pause"
+     transform="translate(178 -66)">
+    <path
+       d="m-72 34h32v32h-32z"
+       id="path42"
+       fill="none" />
+    <path
+       d="m-68 38v24h9v-24zm15 0v24h9v-24z"
+       class="ColorScheme-Text"
+       id="path44"
+       fill="currentColor" />
+  </g>
+  <g
+     id="32-32-media-playback-start"
+     transform="translate(24 -68)">
+    <path
+       d="m48 36h32v32h-32z"
+       id="path47"
+       fill="none" />
+    <path
+       d="m52 40v24l24-12z"
+       class="ColorScheme-Text"
+       id="path49"
+       fill="currentColor" />
+  </g>
+  <g
+     id="22-22-media-playback-start"
+     transform="translate(48 -46)">
+    <path
+       d="m24 46h22v22h-22z"
+       id="path52"
+       fill="none" />
+    <path
+       d="m27 49v16l16-8z"
+       class="ColorScheme-Text"
+       id="path54"
+       fill="currentColor" />
+  </g>
+  <g
+     id="16-16-media-playback-start"
+     transform="translate(66 -30)">
+    <path
+       d="m6 52h16v16h-16z"
+       id="path57"
+       fill="none" />
+    <path
+       d="m8 54v12l12-6z"
+       class="ColorScheme-Text"
+       id="path59"
+       fill="currentColor" />
+  </g>
+  <g
+     id="16-16-media-playback-stop"
+     transform="translate(254 -86)">
+    <path
+       d="m-114 108h16v16h-16z"
+       id="path62"
+       fill="none" />
+    <path
+       d="m-112 110h12v12h-12z"
+       class="ColorScheme-Text"
+       id="path64"
+       fill-rule="evenodd"
+       fill="currentColor" />
+  </g>
+  <g
+     id="22-22-media-playback-stop"
+     transform="translate(236 -102)">
+    <path
+       d="m-96 102h22v22h-22z"
+       id="path67"
+       fill="none" />
+    <path
+       d="m-93 105h16v16h-16z"
+       class="ColorScheme-Text"
+       id="path69"
+       fill-rule="evenodd"
+       fill="currentColor" />
+  </g>
+  <g
+     id="32-32-media-playback-stop"
+     transform="translate(212 -124)">
+    <path
+       d="m-72 92h32v32h-32z"
+       id="path72"
+       fill="none" />
+    <path
+       d="m-68 96h24v24h-24z"
+       class="ColorScheme-Text"
+       id="path74"
+       fill-rule="evenodd"
+       fill="currentColor" />
+  </g>
+  <g
+     id="32-32-media-record"
+     transform="translate(184 -160)">
+    <path
+       d="m-10 128h32v32h-32z"
+       fill="none"
+       id="path77" />
+    <path
+       d="m18 144a12 12 0 0 1 -12 12 12 12 0 0 1 -12-12 12 12 0 0 1 12-12 12 12 0 0 1 12 12z"
+       fill="#da4453"
+       id="path79" />
+  </g>
+  <g
+     id="16-16-media-record"
+     transform="translate(226 -122)">
+    <path
+       d="m-52 144h16v16h-16z"
+       fill="none"
+       id="path82" />
+    <path
+       d="m-38 152a6 6 0 0 1 -6 6 6 6 0 0 1 -6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6z"
+       fill="#da4453"
+       id="path84" />
+  </g>
+  <g
+     id="22-22-media-record"
+     transform="translate(208 -138)">
+    <path
+       d="m-34 138h22v22h-22z"
+       fill="none"
+       id="path87" />
+    <path
+       d="m-15 149a8 8 0 0 1 -8 8 8 8 0 0 1 -8-8 8 8 0 0 1 8-8 8 8 0 0 1 8 8z"
+       fill="#da4453"
+       id="path89" />
+  </g>
+  <g
+     id="16-16-media-eject"
+     transform="translate(286 -224)">
+    <path
+       d="m58 246h16v16h-16z"
+       id="path92"
+       fill="none" />
+    <path
+       d="m66 248-6 8h12zm-6 10v2h12v-2z"
+       class="ColorScheme-Text"
+       id="path94"
+       fill="currentColor" />
+  </g>
+  <g
+     id="22-22-media-eject"
+     transform="translate(268 -240)">
+    <path
+       d="m76 240h22v22h-22z"
+       id="path97"
+       fill="none" />
+    <path
+       d="m87 243-8 11h16z"
+       class="ColorScheme-Text"
+       id="path99"
+       fill="currentColor" />
+    <path
+       d="m79 256v3h16v-3z"
+       class="ColorScheme-Text"
+       id="path101"
+       fill="currentColor" />
+  </g>
+  <g
+     id="32-32-media-eject"
+     transform="translate(244 -262)">
+    <path
+       d="m100 230h32v32h-32z"
+       id="path104"
+       fill="none" />
+    <path
+       d="m116 234-12 17h24z"
+       class="ColorScheme-Text"
+       id="path106"
+       fill="currentColor" />
+    <path
+       d="m104 254v4h24v-4z"
+       class="ColorScheme-Text"
+       id="path108"
+       fill="currentColor" />
+  </g>
+  <g
+     id="16-16-media-skip-forward"
+     transform="translate(60 -104)">
+    <path
+       d="m250 126h16v16h-16z"
+       id="path111"
+       fill="none" />
+    <path
+       d="m257 128v12l7-6zm7 6v6h2v-12h-2zm-14-6v12l7-6z"
+       class="ColorScheme-Text"
+       id="path113"
+       fill="currentColor" />
+  </g>
+  <g
+     id="22-22-media-skip-forward"
+     transform="translate(310)">
+    <path
+       d="m0 0h22v22h-22z"
+       id="path116"
+       fill="none" />
+    <path
+       d="m0 3v16l10-8zm10 8v8l10-8-10-8zm10 0v8h2v-16h-2z"
+       class="ColorScheme-Text"
+       id="path118"
+       fill="currentColor" />
+  </g>
+  <g
+     id="32-32-media-skip-forward"
+     transform="translate(18 -142)">
+    <path
+       d="m292 110h32v32h-32z"
+       id="path121"
+       fill="none" />
+    <path
+       d="m324 114v24h-4v-24zm-18 12-14 12v-24zm14 0-14 12v-24z"
+       class="ColorScheme-Text"
+       id="path123"
+       fill="currentColor" />
+  </g>
+  <g
+     id="16-16-media-skip-backward"
+     transform="translate(26 -40)">
+    <path
+       d="m250 62h16v16h-16z"
+       id="path126"
+       fill="none" />
+    <path
+       d="m259 64v12l-7-6zm-7 6v6h-2v-12h2zm14-6v12l-7-6z"
+       class="ColorScheme-Text"
+       id="path128"
+       fill="currentColor" />
+  </g>
+  <g
+     id="22-22-media-skip-backward"
+     transform="translate(276 -1)">
+    <path
+       d="m0 1h22v22h-22z"
+       id="path131"
+       fill="none" />
+    <path
+       d="m0 4v16h2v-16zm2 8 10 8v-16zm10 0 10 8v-16z"
+       class="ColorScheme-Text"
+       id="path133"
+       fill="currentColor" />
+  </g>
+  <g
+     id="32-32-media-skip-backward"
+     transform="translate(-16 -78)">
+    <path
+       d="m292 46h32v32h-32z"
+       id="path136"
+       fill="none" />
+    <path
+       d="m292 50v24h4v-24zm18 12 14 12v-24zm-14 0 14 12v-24z"
+       class="ColorScheme-Text"
+       id="path138"
+       fill="currentColor" />
+  </g>
+  <g
+     id="16-16-media-seek-forward"
+     transform="translate(448 -168)">
+    <path
+       d="m-206 190h16v16h-16z"
+       id="path141"
+       fill="none" />
+    <path
+       d="m-198 192v12l7-6zm-7 0v12l7-6z"
+       class="ColorScheme-Text"
+       id="path143"
+       fill="currentColor" />
+  </g>
+  <g
+     id="22-22-media-seek-forward"
+     transform="translate(430 -184)">
+    <path
+       d="m-188 184h22v22h-22z"
+       id="path146"
+       fill="none" />
+    <g
+       class="ColorScheme-Text"
+       transform="translate(-188 184)"
+       id="g150"
+       fill="currentColor">
+      <path
+         d="m1 3v16l10-8zm10 8v8l10-8-10-8z"
+         id="path148" />
+    </g>
+  </g>
+  <g
+     id="32-32-media-seek-forward"
+     transform="translate(406 -206)">
+    <path
+       d="m-164 174h32v32h-32z"
+       id="path153"
+       fill="none" />
+    <path
+       d="m-148 190-14 12v-24zm14 0-14 12v-24z"
+       class="ColorScheme-Text"
+       id="path155"
+       fill="currentColor" />
+  </g>
+  <g
+     id="16-16-media-seek-backward"
+     transform="translate(414 -232)">
+    <path
+       d="m-206 254h16v16h-16z"
+       id="path158"
+       fill="none" />
+    <path
+       d="m-198 256v12l-7-6zm7 0v12l-7-6z"
+       class="ColorScheme-Text"
+       id="path160"
+       fill="currentColor" />
+  </g>
+  <g
+     id="22-22-media-seek-backward"
+     transform="translate(396 -248)">
+    <path
+       d="m-188 248h22v22h-22z"
+       id="path163"
+       fill="none" />
+    <g
+       class="ColorScheme-Text"
+       transform="translate(-188 248)"
+       id="g167"
+       fill="currentColor">
+      <path
+         d="m11 3-10 8 10 8v-8zm0 8 10 8v-16z"
+         id="path165" />
+    </g>
+  </g>
+  <g
+     id="32-32-media-seek-backward"
+     transform="translate(372 -270)">
+    <path
+       d="m-164 238h32v32h-32z"
+       id="path170"
+       fill="none" />
+    <path
+       d="m-148 254 14 12v-24zm-14 0 14 12v-24z"
+       class="ColorScheme-Text"
+       id="path172"
+       fill="currentColor" />
+  </g>
+</svg>
