@@ -7,6 +7,10 @@ enabled=false
 intensity=0.4
 saturation=1.7
 
+[Wallpaper]
+defaultWallpaperTheme=pexels-krivec-ales-547115
+defaultFileSuffix=.jpg
+
 [Desktop Entry]
 X-KDE-PluginInfo-Version=1.0.0
 
