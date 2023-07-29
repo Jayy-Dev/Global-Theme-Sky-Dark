@@ -3,7 +3,7 @@
 Based on  Catppuccin Mocha (Sky) Flavour dark theme. This is my first time creating a global theme for the KDE Community. 
 \
 \
-Info:
+#### Info: ####
 \
 \
 Global Theme Name: <a href="">Sky-Dark</a>
@@ -16,7 +16,6 @@ Icon: <a href="https://store.kde.org/p/1279924">Pela Icons</a>
 \
 Cursor: <a href="https://www.pling.com/p/1383064">Win10OS-cursor</a>
 #### Bar Widgets: ####
-\
 Right Top Corner: Simple Pager
 \
 Center Top: Better Inline Clock
