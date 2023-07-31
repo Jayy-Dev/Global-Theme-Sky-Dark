@@ -3,7 +3,6 @@
 Based on  Catppuccin Mocha (Sky) Flavour dark theme. This is my first time creating a global theme for the KDE Community. 
 \
 #### Info: ####
-\
 Global Theme Name: <a href="">Sky-Dark</a>
 \
 Plasma Theme: <a href="">Sky-Dark</a> (Win12OS-dark Modified)
