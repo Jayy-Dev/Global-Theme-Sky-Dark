@@ -2,9 +2,7 @@
 # KDE Global Theme Sky Dark
 Based on  Catppuccin Mocha (Sky) Flavour dark theme. This is my first time creating a global theme for the KDE Community. 
 \
-\
 #### Info: ####
-\
 \
 Global Theme Name: <a href="">Sky-Dark</a>
 \
